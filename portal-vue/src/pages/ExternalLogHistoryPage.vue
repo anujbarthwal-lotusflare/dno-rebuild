@@ -59,7 +59,7 @@ import { api, useLoad } from '../lib/api.ts';
 import { fmtDateTime } from '../lib/format.ts';
 import type { Column, SidePanelCard } from '../lib/types.ts';
 
-/** Customer Care > External Log History: calls the portal made to external systems on behalf of customers. */
+/** Audit Logs > External Log History: calls the portal made to external systems on behalf of customers. */
 const entityType = ref<string | null>(null);
 const entityId = ref('');
 const types = [

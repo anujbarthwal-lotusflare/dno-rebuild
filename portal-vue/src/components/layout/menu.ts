@@ -53,7 +53,10 @@ export const MAIN_MENU: MenuItem[] = [
     {
         name: 'Messages',
         icon: 'consistency/sidebar-campaigns',
-        subItems: [{ name: 'Campaigns', link: mod('campaigns') }],
+        subItems: [
+            { name: 'Campaigns', link: mod('campaigns') },
+            { name: 'Message History', link: '/customer-care/message-history' },
+        ],
     },
     { name: 'Segments', icon: 'consistency/sidebar-segments', link: mod('segments') },
     {
@@ -66,8 +69,6 @@ export const MAIN_MENU: MenuItem[] = [
         icon: 'consistency/sidebar-user-management',
         subItems: [
             { name: 'User Manager', link: '/customer-care/user-manager' },
-            { name: 'Message History', link: '/customer-care/message-history' },
-            { name: 'External Log History', link: '/customer-care/external-log-history' },
         ],
     },
     {
@@ -113,7 +114,10 @@ export const MAIN_MENU: MenuItem[] = [
     {
         name: 'Audit Logs',
         icon: 'consistency/details-new',
-        subItems: [{ name: 'Portal Audit Logs', link: mod('audit-logs') }],
+        subItems: [
+            { name: 'Portal Audit Logs', link: mod('audit-logs') },
+            { name: 'External Log History', link: '/customer-care/external-log-history' },
+        ],
     },
 ];
 

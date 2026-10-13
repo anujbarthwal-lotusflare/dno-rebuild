@@ -18,8 +18,8 @@ FileUploader, HeaderLayout, SearchBanner, Sidebar, LayoutPage, LayoutSection, Ab
 | Account Overview | `#/customer-care/user-manager/account/:id` | Edit Account, Support Actions, Page edit mode. |
 | Subscriber Overview | `#/customer-care/user-manager/subscriber/:id` | MSISDN in the header, Edit Subscriber (state transitions), Support Actions, Page edit mode. |
 | Organization | `#/customer-care/user-manager/organization/:id` | Details, Page edit mode. |
-| Message History | `#/customer-care/message-history` | Messages sent to end users. |
-| External Log History | `#/customer-care/external-log-history` | Calls to external systems, filter by entity. |
+| Message History (menu: Messages) | `#/customer-care/message-history` | Messages sent to end users. |
+| External Log History (menu: Audit Logs) | `#/customer-care/external-log-history` | Calls to external systems, filter by entity. |
 | Residential / Business Customers | `#/customer-management/residential-customers`, `...business-customers` | Customer lists. |
 | Customer 360 | `#/customer-management/residential-customer/:id`, `...business-customer/:id` | Header, contact strip, tabs (below). |
 | Settings > User Settings | `#/settings/user-settings` | Time zone, date format, time format, default user search parameter. Dates across the suite follow these. |

@@ -32,7 +32,7 @@ import { api, useLoad } from '../lib/api.ts';
 import { fmtDateTime } from '../lib/format.ts';
 import type { Column, SidePanelCard } from '../lib/types.ts';
 
-/** Customer Care > Message History: messages sent to end users across the tenant. */
+/** Messages > Message History: messages sent to end users across the tenant. */
 const router = useRouter();
 const { data, loading, error } = useLoad(() => api<Record<string, unknown>[]>('/care/messageHistory'));
 const rows = computed(() => (data.value ?? []).map((r, i) => ({ id: i, ...r })));
