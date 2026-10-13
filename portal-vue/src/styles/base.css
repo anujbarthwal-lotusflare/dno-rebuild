@@ -1,0 +1,278 @@
+/*
+ * LotusFlare DNO portal design system, replicated from the original Tailwind preset
+ * (ts-polaris/portal/src/tailwind.preset.ts and commonComponents/constants/designSystemColors.ts).
+ */
+@font-face {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('/fonts/OpenSans-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url('/fonts/OpenSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('/fonts/OpenSans-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: url('/fonts/OpenSans-Italic.ttf') format('truetype');
+}
+
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --gray-800: #1d1e23;
+    --gray-600: #4f5162;
+    --gray-500: #707785;
+    --gray-300: #9ba3b4;
+    --gray-200: #dbe0ea;
+    --gray-150: #e5e9f1;
+    --gray-100: #f3f4f8;
+    --gray-50: #f7f8fb;
+    --gray-25: #fafbfd;
+    --blue-800: #0a101e;
+    --blue-600: #202b54;
+    --blue-500: #294177;
+    --blue-400: #335195;
+    --blue-300: #8d9ec4;
+    --blue-200: #e5ebfa;
+    --blue-100: #eef3fe;
+    --blue-50: #f6f9ff;
+    --yellow-800: #473009;
+    --yellow-600: #855a11;
+    --yellow-400: #ffad20;
+    --yellow-200: #ffeac3;
+    --yellow-100: #fff2db;
+    --yellow-50: #fff8ec;
+    --red-800: #461719;
+    --red-600: #812b2e;
+    --red-400: #f85359;
+    --red-200: #fdcbcd;
+    --red-100: #fee3e4;
+    --red-50: #fff4f5;
+    --green-800: #0f3830;
+    --green-600: #1d6958;
+    --green-400: #37c9aa;
+    --green-200: #c6ede5;
+    --green-100: #dff6f1;
+    --green-50: #edfbf8;
+    --purple-600: #6861df;
+
+    --sp-xxs: 0.25rem;
+    --sp-xs: 0.5rem;
+    --sp-sm: 0.75rem;
+    --sp-md: 1rem;
+    --sp-lg: 1.25rem;
+    --sp-xl: 1.5rem;
+    --sp-2xl: 2rem;
+    --sp-3xl: 2.5rem;
+
+    --radius-xxs: 0.25rem;
+    --radius-xs: 0.5rem;
+    --radius-sm: 0.75rem;
+
+    --shadow-blue: 0px 4px 8px 0px rgba(51, 81, 149, 0.3);
+    --shadow-gray-s: 0px 4px 16px 0px rgba(68, 80, 125, 0.16);
+    --shadow-gray-xl: 0px 4px 75px 0px rgba(68, 80, 125, 0.16);
+
+    --font: 'Open Sans', sans-serif;
+    --mono: 'Fira Mono', 'SFMono-Regular', Menlo, Consolas, monospace;
+
+    --z-dropdown: 40;
+    --z-drawer: 50;
+    --z-modal: 60;
+    --z-overlay: 70;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+html {
+    font-family: var(--font);
+    font-size: 16px;
+    line-height: 1.5rem;
+    color: var(--gray-800);
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    margin: 0;
+    height: 100%;
+    background: var(--white);
+}
+#app {
+    height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+h1 {
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: var(--gray-800);
+}
+h2 {
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    color: var(--gray-800);
+}
+h3 {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: var(--gray-800);
+}
+h4 {
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    color: var(--gray-800);
+}
+h5 {
+    font-weight: 600;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    color: var(--blue-400);
+}
+a {
+    color: var(--blue-400);
+    text-decoration: none;
+}
+button,
+input,
+select,
+textarea {
+    font-family: inherit;
+    color: inherit;
+}
+button {
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+}
+code,
+pre {
+    font-family: var(--mono);
+}
+[hidden] {
+    display: none !important;
+}
+
+/* thin rounded scrollbars, as in the portal tables */
+.lf-scroll::-webkit-scrollbar,
+.lf-scroll *::-webkit-scrollbar {
+    height: 0.5rem;
+    width: 0.5rem;
+}
+.lf-scroll::-webkit-scrollbar-thumb,
+.lf-scroll *::-webkit-scrollbar-thumb {
+    background: var(--gray-300);
+    border-radius: 1rem;
+}
+.lf-scroll::-webkit-scrollbar-track,
+.lf-scroll *::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* text helpers used across pages */
+.text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
+.text-sm {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+}
+.text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+.text-gray-600 {
+    color: var(--gray-600);
+}
+.text-gray-500 {
+    color: var(--gray-500);
+}
+.text-blue {
+    color: var(--blue-400);
+}
+.semibold {
+    font-weight: 600;
+}
+.mono {
+    font-family: var(--mono);
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+}
+.link {
+    color: var(--blue-400);
+    cursor: pointer;
+}
+.link:hover {
+    color: var(--blue-500);
+    text-decoration: underline;
+}
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.ml-auto {
+    margin-left: auto;
+}
+:focus-visible {
+    outline: 2px solid var(--blue-300);
+    outline-offset: 1px;
+}
+
+/* standalone tables (Customer 360 tabs, list pages): padded header with a bottom rule */
+.lf-table.standalone > .header {
+    padding: 1.25rem 2rem;
+    border-bottom: 1px solid var(--gray-150);
+}
+.lf-table.standalone > .header .title {
+    font-size: 1.375rem;
+    font-weight: 400;
+}
+
+/* while a tile or section is dragged */
+body.lf-dragging,
+body.lf-dragging * {
+    user-select: none !important;
+    cursor: grabbing !important;
+}
+
+/* keep the assistant button clear of the tile library in page edit mode */
+body:has(.library) .assistant,
+body:has(.library) .assistant-pop {
+    right: calc(18rem + 1.75rem);
+}

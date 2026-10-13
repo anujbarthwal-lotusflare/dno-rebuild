@@ -1,0 +1,14 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Input event (single circle) -->
+  <circle cx="4" cy="8" r="2.2" fill="currentColor" opacity="0.8"/>
+
+  <!-- Multiplication arrows -->
+  <path d="M8 8 L12 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M8 8 L12 8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M8 8 L12 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Output events (multiple circles) -->
+  <circle cx="16" cy="3" r="1.8" fill="currentColor" opacity="0.6"/>
+  <circle cx="16" cy="8" r="1.8" fill="currentColor" opacity="0.6"/>
+  <circle cx="16" cy="13" r="1.8" fill="currentColor" opacity="0.6"/>
+</svg>

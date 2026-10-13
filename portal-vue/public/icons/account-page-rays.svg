@@ -1,0 +1,576 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1368" height="400" viewBox="0 0 1368 400">
+    <defs>
+        <path id="a" d="M0 671L2124 3.777 2123.13 1z"/>
+        <path id="b" d="M0 671L2124 3.777 2123.13 1z"/>
+        <path id="c" d="M13 708L2123.075 1l.925 2.762z"/>
+        <path id="d" d="M25 744L2123.03 0l.97 2.746z"/>
+        <path id="e" d="M37 781L2122.984 0 2124 2.73z"/>
+        <path id="f" d="M52 817L2122.935 0 2124 2.712z"/>
+        <path id="g" d="M66 853L2122.885 1 2124 3.688z"/>
+        <path id="h" d="M82 889L2122.839 1 2124 3.668z"/>
+        <path id="i" d="M98 924L2123.792 0 2125 2.65z"/>
+        <path id="j" d="M114 960L2122.749 1 2124 3.626z"/>
+        <path id="k" d="M131 994L2123.701 0 2125 2.605z"/>
+        <path id="l" d="M148 1029L2122.658 0 2124 2.583z"/>
+        <path id="m" d="M167 1063L2123.611 1 2125 3.557z"/>
+        <path id="n" d="M186 1097L2122.566 0 2124 2.536z"/>
+        <path id="o" d="M205 1131L2123.524 1 2125 3.508z"/>
+        <path id="p" d="M225 1165L2122.484 1 2124 3.483z"/>
+        <path id="q" d="M246 1197L2123.437 0 2125 2.457z"/>
+        <path id="r" d="M267 1230L2123.399 1 2125 3.427z"/>
+        <path id="s" d="M288 1262L2122.352 1 2124 3.398z"/>
+        <path id="t" d="M310 1294L2122.311 1 2124 3.369z"/>
+        <path id="u" d="M334 1325L2123.274 1 2125 3.339z"/>
+        <path id="v" d="M357 1356L2123.227 0 2125 2.312z"/>
+        <path id="w" d="M381 1387L2122.187 1 2124 3.279z"/>
+        <path id="x" d="M405 1418L2123.148 1 2125 3.248z"/>
+        <path id="y" d="M430 1448L2122.108 1 2124 3.216z"/>
+        <path id="z" d="M456 1476L2123.073 0 2125 2.18z"/>
+        <path id="A" d="M482 1506L2123.035 1 2125 3.146z"/>
+        <path id="B" d="M508 1534L2122 1l2 2.113z"/>
+        <path id="C" d="M535 1562L2122.962 0 2125 2.077z"/>
+        <path id="D" d="M562 1590L2121.925 1 2124 3.041z"/>
+        <path id="E" d="M591 1617L2122.89 1l2.11 2.006z"/>
+        <path id="F" d="M619 1643L2122.854 1 2125 2.968z"/>
+        <path id="G" d="M648 1669L2121.821 1 2124 2.93z"/>
+        <path id="H" d="M677 1695L2122.787 1 2125 2.893z"/>
+        <path id="I" d="M707 1719L2122.755 1 2125 2.854z"/>
+        <path id="J" d="M738 1744L2122.725 1 2125 2.814z"/>
+        <path id="K" d="M768 1768L2122.692 1 2125 2.776z"/>
+        <path id="L" d="M799 1791L2122.66 1l2.34 1.735z"/>
+        <path id="M" d="M830 1815L2122.627 1 2125 2.692z"/>
+        <path id="N" d="M862 1837L2122.601 1 2125 2.648z"/>
+        <path id="O" d="M894 1858L2122.572 1 2125 2.607z"/>
+        <path id="P" d="M927 1879L2122.546 1 2125 2.566z"/>
+        <path id="Q" d="M960 1900L2122.523 1 2125 2.523z"/>
+        <path id="R" d="M993 1920L2122.493 1 2125 2.48z"/>
+        <path id="S" d="M1027 1939L2122.468 1 2125 2.435z"/>
+        <path id="T" d="M1061 1958L2122.442 1 2125 2.389z"/>
+        <path id="U" d="M1095 1976L2122.418 1 2125 2.345z"/>
+        <path id="V" d="M1129 1994L2122.396 1 2125 2.301z"/>
+        <path id="W" d="M1165 2011L2122.376 1 2125 2.252z"/>
+        <path id="X" d="M1200 2027L2122.352 1 2125 2.208z"/>
+        <path id="Y" d="M1235 2043L2122.33 1l2.67 1.164z"/>
+        <path id="Z" d="M1271 2058L2122.313 1 2125 2.115z"/>
+        <path id="aa" d="M1307 2073L2122.296 1 2125 2.068z"/>
+        <path id="ab" d="M1343 2086L2122.275 1 2125 2.021z"/>
+        <path id="ac" d="M1380 2100L2122.259 1l2.741.972z"/>
+        <path id="ad" d="M1416 2112L2122.239 1l2.761.923z"/>
+        <path id="ae" d="M1453 2125L2122.224 1l2.776.876z"/>
+        <path id="af" d="M1490 2136L2125 1.827 2122.206 1z"/>
+        <path id="ag" d="M148 1029L2122.658 0 2124 2.583z"/>
+        <path id="ah" d="M167 1063L2123.611 1 2125 3.557z"/>
+        <path id="ai" d="M186 1097L2122.566 0 2124 2.536z"/>
+        <path id="aj" d="M205 1131L2123.524 1 2125 3.508z"/>
+        <path id="ak" d="M225 1165L2122.484 1 2124 3.483z"/>
+        <path id="al" d="M246 1197L2123.437 0 2125 2.457z"/>
+        <path id="am" d="M267 1230L2123.399 1 2125 3.427z"/>
+        <path id="an" d="M288 1262L2122.352 1 2124 3.398z"/>
+        <path id="ao" d="M310 1294L2122.311 1 2124 3.369z"/>
+        <path id="ap" d="M334 1325L2123.274 1 2125 3.339z"/>
+        <path id="aq" d="M357 1356L2123.227 0 2125 2.312z"/>
+        <path id="ar" d="M381 1387L2122.187 1 2124 3.279z"/>
+        <path id="as" d="M405 1418L2123.148 1 2125 3.248z"/>
+        <path id="at" d="M430 1448L2122.108 1 2124 3.216z"/>
+        <path id="au" d="M456 1476L2123.073 0 2125 2.18z"/>
+        <path id="av" d="M482 1506L2123.035 1 2125 3.146z"/>
+        <path id="aw" d="M508 1534L2122 1l2 2.113z"/>
+        <path id="ax" d="M535 1562L2122.962 0 2125 2.077z"/>
+        <path id="ay" d="M562 1590L2121.925 1 2124 3.041z"/>
+        <path id="az" d="M591 1617L2122.89 1l2.11 2.006z"/>
+        <path id="aA" d="M619 1643L2122.854 1 2125 2.968z"/>
+        <path id="aB" d="M648 1669L2121.821 1 2124 2.93z"/>
+        <path id="aC" d="M677 1695L2122.787 1 2125 2.893z"/>
+        <path id="aD" d="M707 1719L2122.755 1 2125 2.854z"/>
+        <path id="aE" d="M738 1744L2122.725 1 2125 2.814z"/>
+        <path id="aF" d="M768 1768L2122.692 1 2125 2.776z"/>
+        <path id="aG" d="M799 1791L2122.66 1l2.34 1.735z"/>
+        <path id="aH" d="M830 1815L2122.627 1 2125 2.692z"/>
+        <path id="aI" d="M862 1837L2122.601 1 2125 2.648z"/>
+        <path id="aJ" d="M894 1858L2122.572 1 2125 2.607z"/>
+        <path id="aK" d="M927 1879L2122.546 1 2125 2.566z"/>
+        <path id="aL" d="M960 1900L2122.523 1 2125 2.523z"/>
+        <path id="aM" d="M993 1920L2122.493 1 2125 2.48z"/>
+        <path id="aN" d="M1027 1939L2122.468 1 2125 2.435z"/>
+        <path id="aO" d="M1061 1958L2122.442 1 2125 2.389z"/>
+        <path id="aP" d="M1095 1976L2122.418 1 2125 2.345z"/>
+        <path id="aQ" d="M1129 1994L2122.396 1 2125 2.301z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".7">
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#a"/>
+            <use stroke="#979797" xlink:href="#a"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#a"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#b"/>
+            <use stroke="#979797" xlink:href="#b"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#b"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#c"/>
+            <use stroke="#979797" xlink:href="#c"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#c"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#d"/>
+            <use stroke="#979797" xlink:href="#d"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#d"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#e"/>
+            <use stroke="#979797" xlink:href="#e"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#e"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#f"/>
+            <use stroke="#979797" xlink:href="#f"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#f"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#g"/>
+            <use stroke="#979797" xlink:href="#g"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#g"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#h"/>
+            <use stroke="#979797" xlink:href="#h"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#h"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#i"/>
+            <use stroke="#979797" xlink:href="#i"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#i"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#j"/>
+            <use stroke="#979797" xlink:href="#j"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#j"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#k"/>
+            <use stroke="#979797" xlink:href="#k"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#k"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#l"/>
+            <use stroke="#979797" xlink:href="#l"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#l"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#m"/>
+            <use stroke="#979797" xlink:href="#m"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#m"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#n"/>
+            <use stroke="#979797" xlink:href="#n"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#n"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#o"/>
+            <use stroke="#979797" xlink:href="#o"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#o"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#p"/>
+            <use stroke="#979797" xlink:href="#p"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#p"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#q"/>
+            <use stroke="#979797" xlink:href="#q"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#q"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#r"/>
+            <use stroke="#979797" xlink:href="#r"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#r"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#s"/>
+            <use stroke="#979797" xlink:href="#s"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#s"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#t"/>
+            <use stroke="#979797" xlink:href="#t"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#t"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#u"/>
+            <use stroke="#979797" xlink:href="#u"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#u"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#v"/>
+            <use stroke="#979797" xlink:href="#v"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#v"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#w"/>
+            <use stroke="#979797" xlink:href="#w"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#w"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#x"/>
+            <use stroke="#979797" xlink:href="#x"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#x"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#y"/>
+            <use stroke="#979797" xlink:href="#y"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#y"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#z"/>
+            <use stroke="#979797" xlink:href="#z"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#z"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#A"/>
+            <use stroke="#979797" xlink:href="#A"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#A"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#B"/>
+            <use stroke="#979797" xlink:href="#B"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#B"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#C"/>
+            <use stroke="#979797" xlink:href="#C"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#C"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#D"/>
+            <use stroke="#979797" xlink:href="#D"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#D"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#E"/>
+            <use stroke="#979797" xlink:href="#E"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#E"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#F"/>
+            <use stroke="#979797" xlink:href="#F"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#F"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#G"/>
+            <use stroke="#979797" xlink:href="#G"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#G"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#H"/>
+            <use stroke="#979797" xlink:href="#H"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#H"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#I"/>
+            <use stroke="#979797" xlink:href="#I"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#I"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#J"/>
+            <use stroke="#979797" xlink:href="#J"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#J"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#K"/>
+            <use stroke="#979797" xlink:href="#K"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#K"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#L"/>
+            <use stroke="#979797" xlink:href="#L"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#L"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#M"/>
+            <use stroke="#979797" xlink:href="#M"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#M"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#N"/>
+            <use stroke="#979797" xlink:href="#N"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#N"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#O"/>
+            <use stroke="#979797" xlink:href="#O"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#O"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#P"/>
+            <use stroke="#979797" xlink:href="#P"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#P"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#Q"/>
+            <use stroke="#979797" xlink:href="#Q"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#Q"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#R"/>
+            <use stroke="#979797" xlink:href="#R"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#R"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#S"/>
+            <use stroke="#979797" xlink:href="#S"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#S"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#T"/>
+            <use stroke="#979797" xlink:href="#T"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#T"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#U"/>
+            <use stroke="#979797" xlink:href="#U"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#U"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#V"/>
+            <use stroke="#979797" xlink:href="#V"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#V"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#W"/>
+            <use stroke="#979797" xlink:href="#W"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#W"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#X"/>
+            <use stroke="#979797" xlink:href="#X"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#X"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#Y"/>
+            <use stroke="#979797" xlink:href="#Y"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#Y"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#Z"/>
+            <use stroke="#979797" xlink:href="#Z"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#Z"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#aa"/>
+            <use stroke="#979797" xlink:href="#aa"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aa"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#ab"/>
+            <use stroke="#979797" xlink:href="#ab"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ab"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#ac"/>
+            <use stroke="#979797" xlink:href="#ac"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ac"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#ad"/>
+            <use stroke="#979797" xlink:href="#ad"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ad"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#ae"/>
+            <use stroke="#979797" xlink:href="#ae"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ae"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#D22A27" xlink:href="#af"/>
+            <use stroke="#979797" xlink:href="#af"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#af"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#ag"/>
+            <use stroke="#979797" xlink:href="#ag"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ag"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#ah"/>
+            <use stroke="#979797" xlink:href="#ah"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ah"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#ai"/>
+            <use stroke="#979797" xlink:href="#ai"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ai"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aj"/>
+            <use stroke="#979797" xlink:href="#aj"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aj"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#ak"/>
+            <use stroke="#979797" xlink:href="#ak"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ak"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#al"/>
+            <use stroke="#979797" xlink:href="#al"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#al"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#am"/>
+            <use stroke="#979797" xlink:href="#am"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#am"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#an"/>
+            <use stroke="#979797" xlink:href="#an"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#an"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#ao"/>
+            <use stroke="#979797" xlink:href="#ao"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ao"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#ap"/>
+            <use stroke="#979797" xlink:href="#ap"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ap"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aq"/>
+            <use stroke="#979797" xlink:href="#aq"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aq"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#ar"/>
+            <use stroke="#979797" xlink:href="#ar"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ar"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#as"/>
+            <use stroke="#979797" xlink:href="#as"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#as"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#at"/>
+            <use stroke="#979797" xlink:href="#at"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#at"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#au"/>
+            <use stroke="#979797" xlink:href="#au"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#au"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#av"/>
+            <use stroke="#979797" xlink:href="#av"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#av"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aw"/>
+            <use stroke="#979797" xlink:href="#aw"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aw"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#ax"/>
+            <use stroke="#979797" xlink:href="#ax"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ax"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#ay"/>
+            <use stroke="#979797" xlink:href="#ay"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#ay"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#az"/>
+            <use stroke="#979797" xlink:href="#az"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#az"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aA"/>
+            <use stroke="#979797" xlink:href="#aA"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aA"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aB"/>
+            <use stroke="#979797" xlink:href="#aB"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aB"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aC"/>
+            <use stroke="#979797" xlink:href="#aC"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aC"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aD"/>
+            <use stroke="#979797" xlink:href="#aD"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aD"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aE"/>
+            <use stroke="#979797" xlink:href="#aE"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aE"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aF"/>
+            <use stroke="#979797" xlink:href="#aF"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aF"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#FDD301" xlink:href="#aG"/>
+            <use stroke="#979797" xlink:href="#aG"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aG"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aH"/>
+            <use stroke="#979797" xlink:href="#aH"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aH"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aI"/>
+            <use stroke="#979797" xlink:href="#aI"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aI"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aJ"/>
+            <use stroke="#979797" xlink:href="#aJ"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aJ"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aK"/>
+            <use stroke="#979797" xlink:href="#aK"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aK"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aL"/>
+            <use stroke="#979797" xlink:href="#aL"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aL"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aM"/>
+            <use stroke="#979797" xlink:href="#aM"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aM"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aN"/>
+            <use stroke="#979797" xlink:href="#aN"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aN"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aO"/>
+            <use stroke="#979797" xlink:href="#aO"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aO"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aP"/>
+            <use stroke="#979797" xlink:href="#aP"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aP"/>
+        </g>
+        <g transform="rotate(-165 891.367 525.402)">
+            <use fill="#F05B2F" xlink:href="#aQ"/>
+            <use stroke="#979797" xlink:href="#aQ"/>
+            <use stroke="#FFF" stroke-width="2" xlink:href="#aQ"/>
+        </g>
+    </g>
+</svg>

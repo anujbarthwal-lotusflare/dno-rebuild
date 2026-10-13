@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>52617C8A-184F-47CE-AE1E-DD38BFC11918</title>
+    <defs>
+        <path d="M11.371134,0 L11.371134,5.66029781 L10.6130584,5.66029781 C10.6130584,5.66029781 10.4109049,0.707537227 6.8226804,0.707537227 L6.8226804,13.5948224 L9.0969072,13.5948224 L9.0969072,14.7066666 L2.2742268,14.7066666 L2.2742268,13.5948224 L4.5484536,13.5948224 L4.5484536,0.707537227 L4.53142346,0.707835921 C4.25699816,0.715153929 0.7580756,0.901763132 0.7580756,5.66029781 L0,5.66029781 L0,0 L11.371134,0 Z M3.00855332,6.83446631 L3.00855332,9.81623034 L0.0267892934,9.81623034 L0.0267892934,6.83446631 L3.00855332,6.83446631 Z M11.3205956,6.83446631 L11.3205956,9.81623034 L8.3388316,9.81623034 L8.3388316,6.83446631 L11.3205956,6.83446631 Z" id="path-1"></path>
+    </defs>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Style-Guide" transform="translate(-978.000000, -18111.000000)">
+            <g id="Group-52" transform="translate(-2.000000, 7030.000000)">
+                <g id="Group-43" transform="translate(0.000000, 2632.000000)">
+                    <g id="Additional-components" transform="translate(149.000000, 4826.000000)">
+                        <g id="Menu-and-submenu-items" transform="translate(331.000000, 1725.000000)">
+                            <g transform="translate(0.000000, 46.000000)" id="Main-Navigation-Copy-4">
+                                <g transform="translate(480.000000, 1081.000000)">
+                                    <g id="Main-Navigation/Open-Item-Icons" transform="translate(0.000000, 759.000000)">
+                                        <g id="Icon/Logo/T-Mobile" transform="translate(20.000000, 12.000000)">
+                                            <g id="↳-🎨Color" transform="translate(2.486590, 0.498396)">
+                                                <mask id="mask-2" fill="white">
+                                                    <use xlink:href="#path-1"></use>
+                                                </mask>
+                                                <use id="Mask" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                                <g id="UI/Color/Flat/Main-icons" mask="url(#mask-2)" fill="#898F9C">
+                                                    <g transform="translate(-37.486590, -35.498396)" id="Base">
+                                                        <rect x="0" y="0" width="86" height="86"></rect>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-sign</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="95.5613909%" y1="-2.25467626%" x2="16.1685851%" y2="88.5671463%" id="linearGradient-1">
+            <stop stop-color="#2580C3" offset="0%"></stop>
+            <stop stop-color="#EF7F30" offset="0%"></stop>
+            <stop stop-color="#E34441" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="103.42518%" y1="-0.761057692%" x2="26.117506%" y2="72.6783654%" id="linearGradient-2">
+            <stop stop-color="#2580C3" offset="0%"></stop>
+            <stop stop-color="#EF7F30" offset="0%"></stop>
+            <stop stop-color="#E34441" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="logo-sign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill-rule="nonzero">
+            <polygon id="Shape" fill="url(#linearGradient-1)" points="34.7 37.5 8.3 37.5 8.3 11.1 0.7 3.5 0.7 45.2 42.4 45.2"></polygon>
+            <polygon id="Shape" fill="url(#linearGradient-2)" points="11.1 8.4 37.4 8.4 37.4 34.8 45.1 42.4 45.1 0.8 3.4 0.8"></polygon>
+            <polygon id="Shape" fill="#F7A935" points="32 14 16.6 14 32 29.3"></polygon>
+        </g>
+    </g>
+</svg>

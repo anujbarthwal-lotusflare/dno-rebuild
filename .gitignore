@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+layouts/
+.transfer/
+_old/
+dno-run.log
+.DS_Store

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="40" viewBox="0 0 41 40">
+    <defs>
+        <path id="c7lvbranwa" d="M20 0C8.953 0 0 8.955 0 20s8.953 20 20 20c11.045 0 20-8.955 20-20S31.045 0 20 0z"/>
+        <path id="l6z7d2r0kc" d="M25.818 14c1.205 0 2.182.947 2.182 2.115v5.64c0 1.169-.977 2.116-2.182 2.116h-5.52l-1.963 1.91c-.209.204-.523.265-.796.155-.273-.11-.45-.369-.448-.655v-1.41h-2.91c-1.204 0-2.181-.947-2.181-2.115v-5.64c0-1.169.977-2.116 2.182-2.116zm0 1.41H14.182c-.402 0-.727.316-.727.705v5.64c0 .39.325.706.727.706h3.636c.402 0 .727.315.727.705v.416l.939-.917c.137-.132.323-.205.516-.204h5.818c.402 0 .727-.316.727-.705v-5.64c0-.39-.325-.706-.727-.706zm-1.454 4.23c.401 0 .727.316.727.706 0 .389-.326.705-.727.705h-8.728c-.401 0-.727-.316-.727-.705 0-.39.326-.706.727-.706zm0-2.82c.401 0 .727.316.727.705 0 .39-.326.705-.727.705h-8.728c-.401 0-.727-.315-.727-.705 0-.39.326-.705.727-.705z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g transform="translate(-919 -324) translate(403 244) translate(0 64) translate(435.333) translate(81 16)">
+                            <g opacity=".15">
+                                <mask id="wyb4b56pjb" fill="#fff">
+                                    <use xlink:href="#c7lvbranwa"/>
+                                </mask>
+                                <g fill="#335195" mask="url(#wyb4b56pjb)">
+                                    <path d="M0 0H40V40H0z"/>
+                                </g>
+                            </g>
+                            <mask id="zo60g9kr1d" fill="#fff">
+                                <use xlink:href="#l6z7d2r0kc"/>
+                            </mask>
+                            <use fill="#335195" fill-rule="nonzero" xlink:href="#l6z7d2r0kc"/>
+                            <g fill="#335195" mask="url(#zo60g9kr1d)">
+                                <path d="M0 0H16.411V16.398H0z" transform="translate(12 12)"/>
+                            </g>
+                            <g fill="#335195" mask="url(#zo60g9kr1d)">
+                                <path d="M0 0H18V18H0z" transform="translate(10.797 10.792)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

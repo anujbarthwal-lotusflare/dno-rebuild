@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="259" height="288" viewBox="0 0 259 288">
+    <defs>
+        <filter id="prefix__a" width="116.5%" height="166.3%" x="-8.2%" y="-27.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+        </filter>
+        <filter id="prefix__d" width="108.5%" height="108.5%" x="-4.3%" y="-3.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+        </filter>
+        <filter id="prefix__h" width="138.4%" height="138.5%" x="-19.2%" y="-13.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <filter id="prefix__j" width="144.6%" height="144.8%" x="-22.3%" y="-16%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <filter id="prefix__l" width="121.9%" height="121.9%" x="-11%" y="-7.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <linearGradient id="prefix__c" x1="-17.629%" x2="283.975%" y1="54.263%" y2="54.263%">
+            <stop offset="0%" stop-color="#F5F5F5"/>
+            <stop offset="100%" stop-color="#ABABAB"/>
+        </linearGradient>
+        <linearGradient id="prefix__f" x1="-17.629%" x2="283.975%" y1="54.263%" y2="54.263%">
+            <stop offset="0%" stop-color="#F5F5F5"/>
+            <stop offset="100%" stop-color="#ABABAB"/>
+        </linearGradient>
+        <linearGradient id="prefix__g" x1="97.431%" x2="-42.888%" y1="-7.07%" y2="192.122%">
+            <stop offset="0%" stop-color="#F5F5F5"/>
+            <stop offset="100%" stop-color="#ABABAB"/>
+        </linearGradient>
+        <path id="prefix__b" d="M76.145 223.044h81.71l10.723 27.306c1.09 2.776-.276 5.91-3.052 7-.629.248-1.299.374-1.974.374H70.448c-2.982 0-5.4-2.417-5.4-5.4 0-.675.127-1.345.374-1.974l10.723-27.306z"/>
+        <path id="prefix__i" d="M36.16 23.772l-4.396-13.36C28.437.297 20.184-2.366 13.332 4.462l-8.903 8.872c-6.853 6.828-4.181 15.052 5.969 18.367l13.41 4.38c10.148 3.315 15.679-2.196 12.352-12.31z"/>
+        <path id="prefix__k" d="M33.732 23.082l-3.778-11.484C27.094 2.905 20 .617 14.11 6.486L6.459 14.11c-5.89 5.87-3.594 12.938 5.13 15.787l11.526 3.765c8.723 2.85 13.477-1.888 10.617-10.58z"/>
+        <circle id="prefix__e" cx="117" cy="117" r="117"/>
+        <circle id="prefix__m" cx="31.95" cy="31.95" r="31.95"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(6 -9)">
+        <g fill-rule="nonzero" transform="translate(0 30)">
+            <use fill="#000" filter="url(#prefix__a)" xlink:href="#prefix__b"/>
+            <use fill="url(#prefix__c)" xlink:href="#prefix__b"/>
+            <g>
+                <use fill="#000" filter="url(#prefix__d)" xlink:href="#prefix__e"/>
+                <use fill="url(#prefix__f)" xlink:href="#prefix__e"/>
+            </g>
+        </g>
+        <circle cx="117.199" cy="147.826" r="104.408" fill="url(#prefix__g)" fill-rule="nonzero"/>
+        <g fill-rule="nonzero" transform="rotate(45 58.622 142.454)">
+            <use fill="#000" filter="url(#prefix__h)" xlink:href="#prefix__i"/>
+            <use fill="#999" xlink:href="#prefix__i"/>
+            <g>
+                <use fill="#000" filter="url(#prefix__j)" xlink:href="#prefix__k"/>
+                <use fill="#999" xlink:href="#prefix__k"/>
+            </g>
+        </g>
+        <g>
+            <g fill-rule="nonzero" transform="translate(85.5 116.1)">
+                <use fill="#000" filter="url(#prefix__l)" xlink:href="#prefix__m"/>
+                <use fill="#999" xlink:href="#prefix__m"/>
+            </g>
+            <text fill="#FFF" font-family="Poppins-Bold, Poppins" font-size="12.6" font-weight="bold" transform="translate(85.5 116.1)">
+                <tspan x="17.45" y="23.8">SPIN</tspan> <tspan x="23.177" y="38.2">TO</tspan> <tspan x="18.628" y="52.6">WIN</tspan>
+            </text>
+        </g>
+        <g fill="#C8C9C7" fill-rule="nonzero">
+            <path d="M13.46 18.9h.04c-.04 0-.08-.003-.119-.008l-.032-.005c-.026-.004-.052-.01-.077-.016l-.007-.002-.092-.03-.007-.003c-.015-.006-.03-.012-.043-.019-.022-.01-.044-.02-.065-.033l-.04-.023-.048-.034-.022-.016-.026-.021-.04-.036-.018-.018-4.5-4.5c-.352-.351-.352-.92 0-1.272.324-.325.835-.35 1.188-.075l.084.075 2.963 2.962L12.6 7.2c0-1.438-1.124-2.613-2.541-2.695L9.9 4.5H3.6c-.497 0-.9-.403-.9-.9 0-.462.347-.842.795-.894L3.6 2.7h6.3c2.42 0 4.394 1.91 4.496 4.305l.004.195-.001 8.626 2.965-2.962c.324-.325.835-.35 1.188-.075l.084.075c.325.324.35.835.075 1.188l-.075.084-4.5 4.5-.022.022c-.013.013-.028.025-.043.037l.065-.059c-.034.034-.07.065-.107.092l-.056.038-.04.023c-.018.01-.037.02-.057.029l-.047.02-.065.023-.04.011-.032.007c-.057.013-.114.02-.172.02l-.02.001h-.04z" transform="translate(234 30)"/>
+        </g>
+    </g>
+</svg>

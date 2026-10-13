@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<g id="Type=Checkbox, State=Focus, Selected=Off">
+		<rect x="1" y="1" width="14" height="14" rx="3" fill="white" />
+		<rect x="1" y="1" width="14" height="14" rx="3" stroke="#335195" stroke-width="2" />
+	</g>
+</svg>

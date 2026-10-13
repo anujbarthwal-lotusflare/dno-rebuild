@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" fill-opacity="0" d="M0 0H200V200H0z"/>
+        <rect width="160" height="160" x="20" y="20" fill="#335195" fill-opacity=".05" rx="80"/>
+        <rect width="4" height="4" x="108" y="33" fill="#E3E7F0" rx="2"/>
+        <rect width="4" height="4" x="70" y="49" fill="#E3E7F0" rx="2"/>
+        <path fill="#E3E7F0" d="M99.298 47.538c.39.39.39 1.023 0 1.414l-1.413 1.413 1.413 1.415c.39.39.39 1.024 0 1.415-.39.39-1.024.39-1.414 0L96.47 51.78l-1.415 1.415c-.39.39-1.023.39-1.414 0-.39-.391-.39-1.024 0-1.415l1.415-1.415-1.415-1.413c-.39-.39-.39-1.024 0-1.414.39-.39 1.024-.39 1.414 0l1.415 1.413 1.414-1.413c.39-.39 1.024-.39 1.414 0z"/>
+        <path fill="#FFF" stroke="#E3E7F0" stroke-width="2" d="M149 65c1.933 0 3.683.784 4.95 2.05 1.266 1.267 2.05 3.017 2.05 4.95h0v71H44V72c0-1.933.784-3.683 2.05-4.95C47.317 65.784 49.067 65 51 65h0z"/>
+        <rect width="184" height="4" x="8" y="140" fill="#E3E7F0" rx="2"/>
+        <rect width="24" height="4" x="59" y="104" fill="#E3E7F0" rx="2"/>
+        <rect width="7" height="4" x="87" y="104" fill="#E3E7F0" rx="2"/>
+        <rect width="16" height="4" x="73" y="88" fill="#E3E7F0" rx="2"/>
+        <rect width="10" height="4" x="59" y="88" fill="#E3E7F0" rx="2"/>
+        <rect width="82" height="4" x="59" y="76" fill="#E3E7F0" rx="2"/>
+        <rect width="14" height="4" x="59" y="96" fill="#E3E7F0" rx="2"/>
+        <rect width="10" height="4" x="77" y="96" fill="#E3E7F0" rx="2"/>
+        <rect width="30" height="4" x="59" y="112" fill="#E3E7F0" rx="2"/>
+        <rect width="38" height="4" x="59" y="120" fill="#E3E7F0" rx="2"/>
+        <rect width="14" height="4" x="111" y="104" fill="#E3E7F0" rx="2"/>
+        <rect width="12" height="4" x="129" y="104" fill="#E3E7F0" rx="2"/>
+        <rect width="17" height="4" x="111" y="88" fill="#E3E7F0" rx="2"/>
+        <rect width="8" height="4" x="132" y="88" fill="#E3E7F0" rx="2"/>
+        <rect width="27" height="4" x="111" y="96" fill="#E3E7F0" rx="2"/>
+        <rect width="16" height="4" x="111" y="112" fill="#E3E7F0" rx="2"/>
+        <rect width="8" height="4" x="131" y="112" fill="#E3E7F0" rx="2"/>
+        <rect width="28" height="4" x="111" y="120" fill="#E3E7F0" rx="2"/>
+    </g>
+</svg>

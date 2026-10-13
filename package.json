@@ -1,0 +1,24 @@
+{
+  "name": "dno-rebuild",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "TypeScript rebuild of the DNO core flow: party, catalog, pricing, tax, ordering, inventory, billing, payment, dunning.",
+  "engines": { "node": ">=22.18" },
+  "workspaces": ["nest", "portal-vue"],
+  "scripts": {
+    "start": "npm run build && node nest/dist/nest/src/main.js",
+    "serve": "node nest/dist/nest/src/main.js",
+    "build": "npm run build -w nest && npm run build -w portal-vue",
+    "test": "npm run test:core && npm run test -w nest",
+    "typecheck": "tsc -p backend && npm run typecheck -w nest && npm run typecheck -w portal-vue",
+    "dev:portal": "npm run dev -w portal-vue",
+    "start:core": "node backend/src/main.ts",
+    "start:core:memory": "DNO_DB=:memory: node backend/src/main.ts",
+    "test:core": "node --test backend/test/*.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "5.7.3"
+  }
+}
