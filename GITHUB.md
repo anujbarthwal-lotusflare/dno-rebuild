@@ -23,9 +23,10 @@
    git push -u origin main
    ```
 
-3. On github.com: **Settings > Pages > Build and deployment > Source: GitHub Actions**.
-   The workflow in `.github/workflows/pages.yml` publishes `pages/` on every push to `main`
-   (or run it from the **Actions** tab). The site appears at `https://<you>.github.io/dno-rebuild/`.
+3. Optional, needs GitHub Pro for a private repository: **Settings > Pages > Build and deployment >
+   Source: GitHub Actions**, then run **Publish demo to GitHub Pages** from the **Actions** tab. The
+   site appears at `https://<you>.github.io/dno-rebuild/`. Until then the demo is shared through the
+   Claude demo page.
 
 GitHub Pages sites are public on Free, Pro and Team plans, even when the repository is private.
 Only GitHub Enterprise Cloud can limit a Pages site to signed-in members of the organization.

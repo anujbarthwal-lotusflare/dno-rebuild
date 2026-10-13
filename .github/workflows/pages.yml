@@ -1,11 +1,9 @@
-# Publishes the in-browser demo (pages/index.html) to GitHub Pages on every push to main.
-# Settings > Pages > Build and deployment > Source must be "GitHub Actions".
+# Publishes the in-browser demo (pages/index.html) to GitHub Pages. Run it from the Actions tab.
+# Needs Pages turned on (Settings > Pages > Source: GitHub Actions); for a private repository
+# that requires GitHub Pro. The demo is shared through the Claude demo page meanwhile.
 name: Publish demo to GitHub Pages
 
 on:
-  push:
-    branches: [main]
-    paths: ['pages/**', '.github/workflows/pages.yml']
   workflow_dispatch:
 
 permissions:
